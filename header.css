@@ -9,9 +9,11 @@ a {
 
 h1 {
   font-size: 40px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 
 a {
   text-decoration: none;
+  font-family: "Montserrat", sans-serif;
   font-size: 21px;
 }
