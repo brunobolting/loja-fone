@@ -1,5 +1,6 @@
 header {
   background-color: #e24647;
+  overflow: hidden;
 }
 
 h1,
@@ -10,10 +11,17 @@ a {
 h1 {
   font-size: 40px;
   font-family: "Allerta Stencil", sans-serif;
+  display: inline-block;
 }
 
 a {
   text-decoration: none;
   font-family: "Montserrat", sans-serif;
   font-size: 21px;
+  margin-right: 15px;
+}
+
+nav {
+  float: right;
+  padding: 10px;
 }
