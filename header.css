@@ -3,7 +3,7 @@ header {
   color: #fff;
   overflow: hidden;
   margin: 0 115px;
-  padding: 55px 60px 95px; /* padding: top right/left bottom; */
+  padding: 55px 60px 95px; /* top right/left bottom; */
 }
 
 h1 {
@@ -22,4 +22,16 @@ a {
   padding-left: 60px;
   text-decoration: none;
   color: inherit;
+}
+
+.btn {
+  width: 199px;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+}
+
+.btn.comprar {
+  color: #fff;
+  background-color: #252c41;
 }
