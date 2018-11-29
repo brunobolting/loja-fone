@@ -1,0 +1,26 @@
+.header-store {
+  color: #fff;
+  overflow: hidden;
+}
+
+.title {
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  float: left;
+}
+
+.navigation {
+  font-size: 21px;
+  float: right;
+  font-family: "Arial", sans-serif;
+}
+
+.action {
+  margin-right: 60px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.last {
+  margin-right: 0;
+}
