@@ -1,0 +1,16 @@
+.imagem-produto {
+  float: left;
+  background-color: #fff;
+  width: 600px;
+  height: 574px;
+  margin-top: 95px;
+  border-top-right-radius: 150px;
+  border-bottom-right-radius: 150px;
+}
+
+.-image {
+  margin-left: 105px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
