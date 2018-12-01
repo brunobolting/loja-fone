@@ -1,9 +1,8 @@
 .description-product {
-  margin-left: 156px;
+  /* margin-left: 156px; */
   color: #fff;
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
-  float: left;
+  /* font-size: 20px; */
 }
 .description-product > .title {
   font-size: 25px;
@@ -26,13 +25,8 @@
 }
 .description-product > .text {
   font-size: 18px;
-  width: 553px;
   line-height: 30px;
   margin-bottom: 20px;
-}
-.description-product > .text.-more {
-  margin-bottom: 98px;
-  font-size: 20px;
 }
 .description-product .action {
   text-decoration: none;
