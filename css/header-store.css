@@ -27,3 +27,16 @@
 .header-store .action.-last {
   margin-right: 0;
 }
+
+.header-store .action.-search {
+  width: 358px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  background-color: transparent;
+  padding-bottom: 8px;
+}
+.header-store .action.-search::placeholder {
+  color: #fff;
+  opacity: 1;
+  font-size: 20px;
+}
