@@ -33,10 +33,12 @@
   border: none;
   border-bottom: 1px solid #fff;
   background-color: transparent;
-  padding-bottom: 8px;
+  padding: 8px;
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
 }
+
 .header-store .action.-search::placeholder {
   color: #fff;
   opacity: 1;
-  font-size: 20px;
 }
