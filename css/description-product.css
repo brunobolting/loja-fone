@@ -20,6 +20,13 @@
   text-align: right;
 }
 
+.description-product > .item.-heart {
+  position: absolute;
+  transform: translateX(-100%);
+  top: 7px;
+  left: -47px;
+}
+
 .description-product > .item.-last {
   margin-bottom: 72px;
 }
