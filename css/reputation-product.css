@@ -7,4 +7,9 @@
   display: inline-block;
   margin-right: 9px;
   cursor: pointer;
+  transition: all 200ms linear;
+}
+
+.reputation-product > .star:hover {
+  transform: scale(1.3);
 }

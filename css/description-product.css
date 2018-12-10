@@ -25,6 +25,11 @@
   transform: translateX(-100%);
   top: 7px;
   left: -47px;
+  transition: transform 200ms linear;
+}
+
+.description-product > .item.-heart:hover {
+  transform: scale(1.4);
 }
 
 .description-product > .item.-last {
