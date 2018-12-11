@@ -25,10 +25,11 @@
   transform: translateX(-100%);
   top: 7px;
   left: -47px;
+}
+.description-product > .item.-heart > .-pulse {
   transition: transform 200ms linear;
 }
-
-.description-product > .item.-heart:hover {
+.description-product > .item.-heart > .-pulse:hover {
   transform: scale(1.4);
 }
 
